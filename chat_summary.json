@@ -18,5 +18,11 @@
         "content": "Working on adding a button that says hello world.",
         "timestamp": "14082024105356",
         "message_id": "guest14082024105354"
+    },
+    {
+        "role": "user",
+        "content": "add a button that says hello world",
+        "timestamp": "14082024105553",
+        "message_id": "guest14082024105553"
     }
 ]
